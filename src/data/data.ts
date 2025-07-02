@@ -10,7 +10,7 @@ export const personalInfo = {
   email: "maxzaw83@gmail.com",
   github: "https://github.com/maxzaw83",
   linkedin: "https://www.linkedin.com/in/max-zaw/",
-  profileImage: "../src/assets/Profile.jpeg", // Using a relative path as in your example
+  profileImage: "/Profile.jpeg",
   profileImageFallback: "https://placehold.co/300x300/1e293b/a78bfa?text=MZ",
   summary: `🚀 Based in Auckland, I bring 15+ years of hands-on experience delivering scalable, user-friendly software solutions for enterprise and public-sector clients. I'm passionate about clean code, elegant UI/UX, and cross-functional teamwork. Currently open to exciting opportunities in New Zealand’s tech industry.`,
 };
@@ -73,17 +73,17 @@ export const experienceData = [
 export const skillsData = [
   {
     name: "Programming Languages",
-    icon: "/src/assets/icons/kig.png",
+    icon: "/icons/kig.png",
     skills: ["C#", "JavaScript", "TypeScript", "Python", "SQL", "PHP"],
   },
   {
     name: "Frontend Development",
-    icon: "/src/assets/icons/krfb.png",
+    icon: "/icons/krfb.png",
     skills: ["React.js", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
   },
   {
     name: "Backend Development",
-    icon: "/src/assets/icons/kdevelop.png",
+    icon: "/icons/kdevelop.png",
     skills: [
       "ASP.NET Core",
       "Entity Framework Core",
@@ -95,7 +95,7 @@ export const skillsData = [
   },
   {
     name: "Database & Storage",
-    icon: "/src/assets/icons/icon_backend_devlopment.png",
+    icon: "/icons/icon_backend_devlopment.png",
     skills: [
       "SQL Server",
       "MySQL",
@@ -106,7 +106,7 @@ export const skillsData = [
   },
   {
     name: "Cloud & DevOps",
-    icon: "/src/assets/icons/CloudandDevOps.png",
+    icon: "/icons/CloudandDevOps.png",
     skills: [
       "Azure (App Services, Functions, DevOps Pipelines)",
       "AWS (Lambda, S3, EC2)",
@@ -116,7 +116,7 @@ export const skillsData = [
   },
   {
     name: "Tools & Platforms",
-    icon: "/src/assets/icons/icon_skill.png",
+    icon: "/icons/icon_skill.png",
     skills: [
       "Git",
       "Jira",
@@ -129,7 +129,7 @@ export const skillsData = [
   },
   {
     name: "Project & Agile Experience",
-    icon: "/src/assets/icons/icon_experience5.png",
+    icon: "/icons/icon_experience5.png",
     skills: [
       "Agile Scrum",
       "CI/CD",

@@ -14,7 +14,7 @@ A sleek and responsive developer portfolio built with React and Tailwind CSS, fe
 
 ## 🚀 Demo
 
-👉 [Live Demo](https://willcomesoon/)
+👉 [Live Demo](https://icy-wave-0a7ea8610.2.azurestaticapps.net/)
 
 ## 🛠 Getting Started
 
@@ -26,7 +26,7 @@ A sleek and responsive developer portfolio built with React and Tailwind CSS, fe
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/my-portfolio.git
+git clone https://github.com/yourusername/maxportfolio.git
 cd max-portfolio
 
 # Install dependencies

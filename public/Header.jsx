@@ -54,23 +54,23 @@ export default function Header({ onLinkClick }) {
     {
       id: "experience",
       name: "Experience",
-      icon: "/public/icons/icon_experience.png",
+      icon: "/icons/icon_experience.png",
     },
     {
       id: "skills",
       name: "Skills",
-      icon: "/public/icons/preferences-desktop.png",
+      icon: "/icons/preferences-desktop.png",
     },
     {
       id: "projects",
       name: "Projects",
-      icon: "/public/icons/icon_project.png",
+      icon: "/icons/icon_project.png",
     },
-    { id: "awards", name: "Awards", icon: "/public/icons/award.png" },
+    { id: "awards", name: "Awards", icon: "/icons/award.png" },
     {
       id: "education",
       name: "Education",
-      icon: "/public/icons/icon_education.png",
+      icon: "/icons/icon_education.png",
     },
   ];
 
