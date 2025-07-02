@@ -66,7 +66,7 @@ export default function Header({ onLinkClick }) {
       name: "Projects",
       icon: "/icons/icon_project.png",
     },
-    { id: "awards", name: "Awards", icon: "/public/icons/award.png" },
+    { id: "awards", name: "Awards", icon: "/icons/award.png" },
     {
       id: "education",
       name: "Education",
