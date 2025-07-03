@@ -14,7 +14,7 @@ A sleek and responsive developer portfolio built with React and Tailwind CSS, fe
 
 ## 🚀 Demo
 
-👉 [Live Demo](https://brave-ground-03f8f3410.1.azurestaticapps.net/)
+👉 [Live Demo](https://maxzaw.netlify.app/)
 
 ## 🛠 Getting Started
 
