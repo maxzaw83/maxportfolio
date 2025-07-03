@@ -8,7 +8,7 @@ A sleek and responsive developer portfolio built with React and Tailwind CSS, fe
 
 - 📱 Fully responsive design (mobile-first)
 - 🌙 Light/dark theme toggle (optional)
-- 💼 Static content: About, Services, Contact, etc.
+- 💼 Static content: About, Education, Award, etc.
 - ⚡ Optimized build with fast load times
 - 🚀 Azure-hosted with custom domain support
 
